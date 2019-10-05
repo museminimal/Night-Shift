@@ -1,0 +1,35 @@
+@media screen and (max-width: 600px) {
+
+    .heading, .main-menu {
+        text-align: center;
+    }
+
+    .text {
+        max-width: 300px;
+        margin: 0 auto;
+        display: block;
+        padding-top: 15px;
+    }
+
+    footer {
+        margin-top: 90px;
+        margin-left: 180px;
+    }
+
+}
+
+@media screen and (max-width: 410px) {
+
+    .nav {
+        display: block;
+    }
+
+    .text {
+        max-width: 150px;
+    }
+
+    footer {
+        margin-top: 50px;
+        margin-left: 150px;
+    }
+}
