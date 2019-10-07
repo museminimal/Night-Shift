@@ -1,6 +1,6 @@
 @media screen and (max-width: 600px) {
 
-    .heading, .main-menu {
+    .heading {
         text-align: center;
     }
 
@@ -16,6 +16,18 @@
         margin-left: 180px;
     }
 
+    main {
+        margin-left: 0;
+    }
+
+    .main-menu {
+        text-align: left;
+        margin-left: 60px;
+    }
+    
+    footer {
+        margin-left: 80px;
+    }
 }
 
 @media screen and (max-width: 410px) {
@@ -31,5 +43,17 @@
     footer {
         margin-top: 50px;
         margin-left: 150px;
+    }
+
+    main {
+        margin-left: 0;
+    }
+
+    .main-menu {
+        margin-left: 90px;
+    }
+
+    footer {
+        margin-left: 90px;
     }
 }
