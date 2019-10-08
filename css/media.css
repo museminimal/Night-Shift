@@ -22,9 +22,9 @@
 
     .main-menu {
         text-align: left;
-        margin-left: 60px;
+        margin-left: 20px;
     }
-    
+
     footer {
         margin-left: 80px;
     }
@@ -34,10 +34,6 @@
 
     .nav {
         display: block;
-    }
-
-    .text {
-        max-width: 150px;
     }
 
     footer {
@@ -50,10 +46,11 @@
     }
 
     .main-menu {
-        margin-left: 90px;
+        text-align: center;
     }
 
     footer {
         margin-left: 90px;
     }
+
 }
